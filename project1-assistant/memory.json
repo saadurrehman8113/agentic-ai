@@ -1,0 +1,18 @@
+{
+  "facts": {
+    "name": "Ahmed",
+    "goal": "Learning Agentic AI"
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "Hello!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Ahmed!"
+    }
+  ],
+  "created_at": "2026-04-23T14:45:57.524512",
+  "last_seen": "2026-04-23T14:45:57.524530"
+}
