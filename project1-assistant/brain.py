@@ -51,3 +51,14 @@ def think(user_message: str, history: list, facts: dict) -> tuple[str, dict]:
             pass  # if parsing fails, just show the reply as-is
 
     return full_reply, new_facts
+
+
+    # Add temporarily to bottom of brain.py
+# if __name__ == "__main__":
+#     reply, facts = think(
+#         user_message="Hi! I'm Ahmed, a Python developer in Lahore.",
+#         history=[],
+#         facts={}
+#     )
+#     print("Reply:", reply)
+#     print("Facts to save:", facts)
