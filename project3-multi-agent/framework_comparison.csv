@@ -1,0 +1,4 @@
+Framework Name,GitHub Stars (estimate),Primary Use Case,Key Strength,Performance Rating
+Django,75000,Full-stack web applications,Comprehensive ORM & admin panel,8.5/10
+FastAPI,73000,Modern APIs & microservices,Automatic API documentation,9.5/10
+Flask,65000,Lightweight web applications,Simplicity & flexibility,8.0/10
